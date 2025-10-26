@@ -1,4 +1,4 @@
-# Visual Math Worksheet Generator (Pre-K/G1)
+# Visual Math Worksheet Generator
 
 A simple web application built with Python and Flask to generate engaging, downloadable PDF math worksheets for Kindergarten and First Grade Students.
 
