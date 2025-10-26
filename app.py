@@ -28,7 +28,7 @@ HTML_TEMPLATE = """
         <h1 class="text-3xl font-bold text-center text-gray-800 mb-6">
             Visual Math Generator
         </h1>
-        <p class="text-center text-gray-600 mb-6">For Pre-K and Grade 1 (Numbers 0-10)</p>
+        <p class="text-center text-gray-600 mb-6">For K and Grade 1 (Numbers 0-10)</p>
         
         <form action="/generate" method="POST">
             <div class="space-y-6">
