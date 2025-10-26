@@ -29,6 +29,7 @@ HTML_TEMPLATE = """
             Visual Math Generator
         </h1>
         <p class="text-center text-gray-600 mb-6">For K and Grade 1 (Numbers 0-10)</p>
+        <p class="text-center text-gray-600 mb-6">Developed by Khondhaker Al Momin</p>
         
         <form action="/generate" method="POST">
             <div class="space-y-6">
